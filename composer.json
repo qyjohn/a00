@@ -1,0 +1,10 @@
+{
+    "name": "root/a00",
+    "authors": [
+        {
+            "name": "Qingye Jiang",
+            "email": "qjiang@ieee.org"
+        }
+    ],
+    "require": {}
+}
